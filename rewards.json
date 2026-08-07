@@ -1,0 +1,32 @@
+{
+  "updated": "2026-07-13",
+  "note": "5% cash back on up to $1,500 in combined purchases each quarter, then 1%. You must activate each quarter. Categories come from the issuer calendars and can change; verify on the issuer page before spending.",
+  "cards": [
+    {
+      "id": "chase_freedom_flex",
+      "name": "Chase Freedom Flex",
+      "issuer": "Chase",
+      "rate": "5%",
+      "cap": 1500,
+      "activationUrl": "https://www.chase.com/personal/credit-cards/freedom/freedomcalendar",
+      "quarters": [
+        { "year": 2026, "q": 1, "categories": ["Norwegian Cruise Line", "Dining", "American Heart Association donations"] },
+        { "year": 2026, "q": 2, "categories": ["Amazon", "Whole Foods Market", "Chase Travel", "Feeding America donations"] },
+        { "year": 2026, "q": 3, "categories": ["Gas stations", "EV charging", "Public transit", "Select live entertainment", "United Way donations"] }
+      ]
+    },
+    {
+      "id": "discover_it",
+      "name": "Discover it Cash Back",
+      "issuer": "Discover",
+      "rate": "5%",
+      "cap": 1500,
+      "activationUrl": "https://www.discover.com/credit-cards/cash-back/calendar.html",
+      "quarters": [
+        { "year": 2026, "q": 1, "categories": ["Grocery stores", "Wholesale clubs", "Select streaming services"] },
+        { "year": 2026, "q": 2, "categories": ["Restaurants", "Home improvement stores"] },
+        { "year": 2026, "q": 3, "categories": ["Gas stations", "Transportation", "Drugstores"] }
+      ]
+    }
+  ]
+}
