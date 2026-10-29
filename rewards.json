@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13",
+  "updated": "2026-10-29",
   "note": "5% cash back on up to $1,500 in combined purchases each quarter, then 1%. You must activate each quarter. Categories come from the issuer calendars and can change; verify on the issuer page before spending.",
   "cards": [
     {
@@ -8,11 +8,48 @@
       "issuer": "Chase",
       "rate": "5%",
       "cap": 1500,
-      "activationUrl": "https://www.chase.com/personal/credit-cards/freedom/freedomcalendar",
+      "activationUrl": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
       "quarters": [
-        { "year": 2026, "q": 1, "categories": ["Norwegian Cruise Line", "Dining", "American Heart Association donations"] },
-        { "year": 2026, "q": 2, "categories": ["Amazon", "Whole Foods Market", "Chase Travel", "Feeding America donations"] },
-        { "year": 2026, "q": 3, "categories": ["Gas stations", "EV charging", "Public transit", "Select live entertainment", "United Way donations"] }
+        {
+          "year": 2026,
+          "q": 1,
+          "categories": [
+            "Norwegian Cruise Line",
+            "Dining",
+            "American Heart Association donations"
+          ]
+        },
+        {
+          "year": 2026,
+          "q": 2,
+          "categories": [
+            "Amazon",
+            "Whole Foods Market",
+            "Chase Travel",
+            "Feeding America donations"
+          ]
+        },
+        {
+          "year": 2026,
+          "q": 3,
+          "categories": [
+            "Gas stations",
+            "EV charging",
+            "Public transit",
+            "Select live entertainment",
+            "United Way donations"
+          ]
+        },
+        {
+          "year": 2026,
+          "q": 4,
+          "categories": [
+            "Dining",
+            "Grocery Stores (excludes Walmart & Target)",
+            "American Red Cross"
+          ],
+          "source": "https://frequentmiler.com/master-list-of-quarterly-bonus-categories-for-freedom-discover-cash-dividend-aboc/"
+        }
       ]
     },
     {
@@ -21,12 +58,46 @@
       "issuer": "Discover",
       "rate": "5%",
       "cap": 1500,
-      "activationUrl": "https://www.discover.com/credit-cards/cash-back/calendar.html",
+      "activationUrl": "https://www.discover.com/credit-cards/cash-back/cashback-calendar.html",
       "quarters": [
-        { "year": 2026, "q": 1, "categories": ["Grocery stores", "Wholesale clubs", "Select streaming services"] },
-        { "year": 2026, "q": 2, "categories": ["Restaurants", "Home improvement stores"] },
-        { "year": 2026, "q": 3, "categories": ["Gas stations", "Transportation", "Drugstores"] }
+        {
+          "year": 2026,
+          "q": 1,
+          "categories": [
+            "Grocery stores",
+            "Wholesale clubs",
+            "Select streaming services"
+          ]
+        },
+        {
+          "year": 2026,
+          "q": 2,
+          "categories": [
+            "Restaurants",
+            "Home improvement stores"
+          ]
+        },
+        {
+          "year": 2026,
+          "q": 3,
+          "categories": [
+            "Gas stations",
+            "Transportation",
+            "Drugstores"
+          ]
+        },
+        {
+          "year": 2026,
+          "q": 4,
+          "categories": [
+            "Restaurants",
+            "Entertainment",
+            "Utilities"
+          ],
+          "source": "https://frequentmiler.com/master-list-of-quarterly-bonus-categories-for-freedom-discover-cash-dividend-aboc/"
+        }
       ]
     }
-  ]
+  ],
+  "checked": "2026-10-29"
 }
